@@ -9,3 +9,5 @@ HW2: Classifying Digits (py)
 HW3: Qualifying Red Wine (py)
 HW4: Classifying House Votes from 1984 (py)
 HW5: Image Compression and Recovery (py)
+
+data for each jupyter notebook is found in the data folder, with corresponding pdf descriptions of each assignment found in pdf reports

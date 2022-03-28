@@ -1,0 +1,38 @@
+  This dataset is a subset of data set of [Cortez et al., 2009]: 
+
+  P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
+  Modeling wine preferences by data mining from physicochemical properties.
+  In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+
+1. This description has been modified slightly from the original to tailor the data set to a
+homework assignment for AMATH 482/582 course at University of Washington.
+
+1. Relevant Information:
+
+   The datasets is related to variants of the Portuguese "Vinho Verde" red wine.
+   For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].
+   
+2. Number of Instances: 1115 (training) and 479 (test) 
+
+3. Number of input features: 11 (numeric)
+
+4. Number of outputs: 1 (numeric)
+  
+5. Attributes information:
+
+   Input features (columns 1-11 in CSV files):
+
+   1 - fixed acidity
+   2 - volatile acidity
+   3 - citric acid
+   4 - residual sugar
+   5 - chlorides
+   6 - free sulfur dioxide
+   7 - total sulfur dioxide
+   8 - density
+   9 - pH
+   10 - sulphates
+   11 - alcohol
+
+   Output (column 12 in CSV file): 
+   12 - quality (score between 0 and 10)
